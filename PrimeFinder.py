@@ -7,7 +7,7 @@ run faster. Oh well!
 
 This is designed for python 3.8 
 
-(c) 2021 (redacted) and released as free software under the GNU GPL V3.
+(c) 2021 Autumn Bauman and released as free software under the GNU GPL V3.
 Any modification and/or redistrabution of this program must be under the terms of this license.
 THIS PROGRAM COMES WITH ABSOLUTELY NO WARRANTY, TO THE EXTENT PERMITTED BY APPLICABLE LAW
 """
